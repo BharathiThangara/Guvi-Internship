@@ -1,0 +1,8 @@
+{
+    "name": "internship/project",
+    "description": "Developer Internship Project",
+    "require": {
+        "php": ">=7.4",
+        "mongodb/mongodb": "^1.12"
+    }
+}
